@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "node-sass": "node-sass",
+<<<<<<< HEAD
     "sass": "node-sass -wr styles/main.scss ./style.css",
     "lint:css": "stylelint '**/*.scss'"
+=======
+    "sass": "node-sass styles/main.scss style.css"
+>>>>>>> e955dd6e5a59c466ca6daab22e44eb624c14c3f9
   },
   "repository": {
     "type": "git",
