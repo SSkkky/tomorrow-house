@@ -1,4 +1,7 @@
+* {
+  font-family: 'Noto Sans KR', sans-serif; }
+
 p {
-  color: blue;
   display: block;
-  text-transform: none; }
+  color: #000001;
+  text-transform: inherit; }
